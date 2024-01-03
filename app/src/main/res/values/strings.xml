@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FurNote</string>
+    <string name="todo">TODO</string>
+    <string name="my_notes">My Notes</string>
+    <string name="edit_note_title">EditNoteTitle</string>
+    <string name="edit_note_subtitle">EditNoteSubtitle</string>
+    <string name="main_no_note">No Note</string>
+    <string name="edit_content">edit content</string>
+</resources>
